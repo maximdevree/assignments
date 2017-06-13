@@ -5,5 +5,5 @@ This repository contains my assignments for programming
 [assignment week 5](https://github.com/maximdevree/assignments/blob/master/Assignment_week_5.ipynb)
 [Assignment week 6](https://github.com/maximdevree/assignments/blob/master/assignment4.ipynb)
 [Assignment week 8](https://github.com/maximdevree/assignments/blob/master/assignment5.ipynb)
-[Final assignment python](https://github.com/maximdevree/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
-[Final assignment R](https://github.com/maximdevree/assignments/blob/master/OECD_R_exam%20(1).ipynb)
+[Final python assignment](https://github.com/maximdevree/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+[Final R assignment](https://github.com/maximdevree/assignments/blob/master/OECD_R_exam%20(1).ipynb)
